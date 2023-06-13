@@ -1,0 +1,2334 @@
+fileFormatVersion: 2
+guid: b4f24202018cc0c428564319b4ec14f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SKIN 2 -20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e47acda24f186448b895923f4394a04
+      internalID: 539727568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_1
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cdd870cd659bb4cba2888422d8bc91
+      internalID: 284231187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_2
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616effb010bc1c4f9c611a9decd340c
+      internalID: -834345467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_3
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0433a0877ccc94f4288a310904bf266f
+      internalID: -2002341691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_4
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ef2112e03f8b49ba8c745edeab3b4
+      internalID: 537523234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_5
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659f0179ff1dd647867afa046efc6de
+      internalID: 1944224318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_6
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e9f400ebd5a6428e2baceb7c3bbee
+      internalID: -999496300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_7
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cd8b0974f729d4a882a2a950b295ca
+      internalID: 1090424661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_8
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc5c2fe182e8244a8f435c141046db4
+      internalID: 1991484827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_9
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b57c6c9390b6246b8df5d46da3f28d
+      internalID: 1915182293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_10
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b716f2d52bc4d14eb5252c7a8ba5d1e
+      internalID: 2016582658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_11
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31463fe00fb77f6449ac0be2e6f6816f
+      internalID: 1504127341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_12
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f8e95fa3c9efc4390abddd6dd648bb
+      internalID: 549537604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_13
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a97dc50a3f0574f88e4f460022f8e1
+      internalID: -341149273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_14
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298d3eec6cea334c87d431f651c522a
+      internalID: 631443011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_15
+      rect:
+        serializedVersion: 2
+        x: 10125
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f11c2d073cd9f4083246541702a341
+      internalID: -2082022904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_16
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fec3fe79879cb44a76808d27b5928a
+      internalID: 510561164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_17
+      rect:
+        serializedVersion: 2
+        x: 11475
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dc13457b05e254bae7a6d4901eb3d4
+      internalID: 517062075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_18
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b66cae42693f549812c4f6e003f454
+      internalID: -286292906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_19
+      rect:
+        serializedVersion: 2
+        x: 12825
+        y: 3600
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38af3b1a4ba0873438af202c355a97fd
+      internalID: 1832489655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b78bb9db4803c43a25b30408e489c1
+      internalID: 987317977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be668b96497a0042bcfeed6a47d9db1
+      internalID: -1920456216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_22
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d81025dd5d437408378f238028a7cb
+      internalID: 1015445277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_23
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3edabe49c8f84bb49d95ff7d924c3
+      internalID: 350681347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_24
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af264727b6ced4589f1250a94537bb
+      internalID: -187989930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_25
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f8c0aa4709618478b8f1dc343afcbe
+      internalID: 699595660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_26
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb80ba82fa396349bc72f202308b10f
+      internalID: -1057657315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_27
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d5be65d0a08c6458790584e48fbf73
+      internalID: 512102402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_28
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523d2432bc00ff042961a68cdc77cf2a
+      internalID: -1383890755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_29
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1013035ea8a44caa53f0dcc524605
+      internalID: 1664166061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_30
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492240a43e077014e9ed79ae6b6c1aa3
+      internalID: -27663401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_31
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efcf3f59d8a80a40a2ef18ea222350d
+      internalID: 581338227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_32
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2862eadd86b14791a267ad43596ad
+      internalID: 1124163446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_33
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d23d4ebf932343be4de0b6f6a1b4f
+      internalID: -2073429543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_34
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a58116f834064facd21213941fb62
+      internalID: -514126647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_35
+      rect:
+        serializedVersion: 2
+        x: 10125
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c71d8878176c4341aeca9a22c11473e
+      internalID: 1643194875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_36
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a2c66624c0c07418713a8fd93ca328
+      internalID: -1722715370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_37
+      rect:
+        serializedVersion: 2
+        x: 11475
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862e884364c3f714889bc1583d3df6f5
+      internalID: 784869109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_38
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815749fbcd437b143ad356c5112b3ad1
+      internalID: 1632596314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_39
+      rect:
+        serializedVersion: 2
+        x: 12825
+        y: 2700
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d89701f042cae24996df98472af455d
+      internalID: 2061467828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719fea30e778de44695c53039403f434
+      internalID: -1448268590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585f9635cc0e9742bd365071fb3dd09
+      internalID: -1575975816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_42
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3baf7741a3ea90459ed5a91d4bc8819
+      internalID: -159102018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_43
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6eefb878d22c34490b33ba1ffdb605
+      internalID: -1865317252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_44
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2f423095b33734fb9aa9580eeccc14
+      internalID: 1800239672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_45
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc820253f901a014da8fb1445f0764f6
+      internalID: 361785912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_46
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591a96874ae7392438e41bbf352da389
+      internalID: 1623172057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_47
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865b35503f397474fab55d5cade1be08
+      internalID: 503821258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_48
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e739f8259a699c540ab97c8d80ebbeb8
+      internalID: 1882854607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_49
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bfee79ca6540645b4455d28849d629
+      internalID: 1301106309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_50
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b854a295e4ee34ca4aae378139b040
+      internalID: 2023571005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_51
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0b6ae36176d4459f3362c88e734bf
+      internalID: 1071199798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_52
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44ac50b006c2740984780659fc54b8
+      internalID: 1691282305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_53
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913e39d8f27ce14bb3c97a5afd676ce
+      internalID: -1562776384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_54
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0598fb0d188a4a942fbe25df72f51
+      internalID: 574852121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_55
+      rect:
+        serializedVersion: 2
+        x: 10125
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee44435d5debc545810d7dcf992f359
+      internalID: 60506392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_56
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ce2fd725a9e124796bfcc732e75fb7
+      internalID: -1535788944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_57
+      rect:
+        serializedVersion: 2
+        x: 11475
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417f3fab5c246a4e9d5f82efe1426d9
+      internalID: 1923889157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_58
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac9a200417f8f443abc9fddf02aa1b4
+      internalID: -1143300519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_59
+      rect:
+        serializedVersion: 2
+        x: 12825
+        y: 1800
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23ec1fcc3444684c89c8186587980a0
+      internalID: 956072851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ff32188a7a254bad10b11b3d25cdc
+      internalID: 857224320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a44cb98027ff1e4086d168bde75d7c0
+      internalID: -118751981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_62
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38057e5648b517143b2d27a3e7b21a30
+      internalID: 1084793498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_63
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e49980c2919ef469ceaa02f3066e5b
+      internalID: -385383474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_64
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d313a121fdba64d9914a4e25805e24
+      internalID: 751090095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_65
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d51c536dc05b4c9af5a14d42ad380
+      internalID: -1333150511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_66
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b459633efe4ad440933eaa44ae6911b
+      internalID: -1953841243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_67
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982927b2af2d13c49bb31d3f448aafe0
+      internalID: 169123702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_68
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85895f4631aeb42b8edb22a1233c96
+      internalID: -601043705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_69
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8021e8c78f01bb449a4eb4efa814139
+      internalID: -1156184989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_70
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685013201112df40b62924694fb8855
+      internalID: 1276036788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_71
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c17201b561dfc4d94fbbb5e155c6b0
+      internalID: -226114531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_72
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94566847a8ad4d74e8f37a2422612902
+      internalID: -1207673285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_73
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ebcc5b19315df4bb1ff577621b443b
+      internalID: 1415737085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_74
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4b5245af831549824ea3e730e6a1e
+      internalID: -1792531925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_75
+      rect:
+        serializedVersion: 2
+        x: 10125
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad5e3e36ab17554991abfa4d0146692
+      internalID: -1434877293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_76
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6809a58b62207374d9440a98fdcc9b69
+      internalID: 1245879054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_77
+      rect:
+        serializedVersion: 2
+        x: 11475
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949724ae34a54be479a18d7f98f874c1
+      internalID: -748944036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_78
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3986b17e8447aa24cbcefbd10dc35b26
+      internalID: 738341907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_79
+      rect:
+        serializedVersion: 2
+        x: 12825
+        y: 900
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f866b57d07ef26349abbe74a554c02ae
+      internalID: -508510861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aebf5c6570bcc6499c7232d6495be66
+      internalID: 562040340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_81
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5c0ec67f5b7f4b9c7c84d2896eecd
+      internalID: 2087639190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_82
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0157ee82af41064aa0f285565d86ca4
+      internalID: 1689286784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_83
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bccb99af274e1429253b2ee536bbbb
+      internalID: 44307051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_84
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164438ec5fdae9d489bded13120cbefa
+      internalID: -2097345919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_85
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc5b87061805c1478ef025c58f51617
+      internalID: -667369402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_86
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f8fc8730744474dbfb51ef56373ec4
+      internalID: 1290600518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_87
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7840adfdc39204e957c9dfef9071f0
+      internalID: 107495261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_88
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab496dec0ebd1448e9f28397e0a18d
+      internalID: 309268604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_89
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b400dbae5f7d1419458a4b1686925b
+      internalID: -2112748470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_90
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd77a2db3dea5b4db7402e9ea67933b
+      internalID: -1049963144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_91
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbac7cc7635e9047a66498556a6f854
+      internalID: 595732141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_92
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c3cc2e5d57634ba19c67cf0cfa150
+      internalID: 1438890086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_93
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea46c0cd4801a241a31e967824fdfb1
+      internalID: -134162616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_94
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee406a52bc79eb43beca6a9856616c2
+      internalID: 146107745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_95
+      rect:
+        serializedVersion: 2
+        x: 10125
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317e106296fcfcc4b89fd4c092c07c5f
+      internalID: -1238353920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_96
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c434237d86722842a4e88d55381a6dc
+      internalID: 219888366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_97
+      rect:
+        serializedVersion: 2
+        x: 11475
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376bb7e2804de548aae315a6aebc1ca
+      internalID: -1885095101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_98
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafb6827a7f767f469f23f0ea899c62d
+      internalID: 624671794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIN 2 -20_99
+      rect:
+        serializedVersion: 2
+        x: 12825
+        y: 0
+        width: 675
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777600bb88290e49b4b5a7046205224
+      internalID: 1219252936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 064e6de5ea2a3b14192543793bfd2d5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SKIN 2 -20_11: 1504127341
+      SKIN 2 -20_58: -1143300519
+      SKIN 2 -20_51: 1071199798
+      SKIN 2 -20_25: 699595660
+      SKIN 2 -20_88: 309268604
+      SKIN 2 -20_1: 284231187
+      SKIN 2 -20_29: 1664166061
+      SKIN 2 -20_50: 2023571005
+      SKIN 2 -20_93: -134162616
+      SKIN 2 -20_48: 1882854607
+      SKIN 2 -20_71: -226114531
+      SKIN 2 -20_83: 44307051
+      SKIN 2 -20_42: -159102018
+      SKIN 2 -20_43: -1865317252
+      SKIN 2 -20_41: -1575975816
+      SKIN 2 -20_6: -999496300
+      SKIN 2 -20_26: -1057657315
+      SKIN 2 -20_39: 2061467828
+      SKIN 2 -20_12: 549537604
+      SKIN 2 -20_23: 350681347
+      SKIN 2 -20_46: 1623172057
+      SKIN 2 -20_0: 539727568
+      SKIN 2 -20_19: 1832489655
+      SKIN 2 -20_21: -1920456216
+      SKIN 2 -20_76: 1245879054
+      SKIN 2 -20_54: 574852121
+      SKIN 2 -20_69: -1156184989
+      SKIN 2 -20_75: -1434877293
+      SKIN 2 -20_33: -2073429543
+      SKIN 2 -20_32: 1124163446
+      SKIN 2 -20_56: -1535788944
+      SKIN 2 -20_24: -187989930
+      SKIN 2 -20_74: -1792531925
+      SKIN 2 -20_34: -514126647
+      SKIN 2 -20_92: 1438890086
+      SKIN 2 -20_27: 512102402
+      SKIN 2 -20_70: 1276036788
+      SKIN 2 -20_95: -1238353920
+      SKIN 2 -20_7: 1090424661
+      SKIN 2 -20_61: -118751981
+      SKIN 2 -20_31: 581338227
+      SKIN 2 -20_40: -1448268590
+      SKIN 2 -20_99: 1219252936
+      SKIN 2 -20_96: 219888366
+      SKIN 2 -20_57: 1923889157
+      SKIN 2 -20_59: 956072851
+      SKIN 2 -20_87: 107495261
+      SKIN 2 -20_37: 784869109
+      SKIN 2 -20_78: 738341907
+      SKIN 2 -20_67: 169123702
+      SKIN 2 -20_36: -1722715370
+      SKIN 2 -20_80: 562040340
+      SKIN 2 -20_63: -385383474
+      SKIN 2 -20_30: -27663401
+      SKIN 2 -20_81: 2087639190
+      SKIN 2 -20_45: 361785912
+      SKIN 2 -20_97: -1885095101
+      SKIN 2 -20_15: -2082022904
+      SKIN 2 -20_14: 631443011
+      SKIN 2 -20_18: -286292906
+      SKIN 2 -20_9: 1915182293
+      SKIN 2 -20_2: -834345467
+      SKIN 2 -20_91: 595732141
+      SKIN 2 -20_64: 751090095
+      SKIN 2 -20_53: -1562776384
+      SKIN 2 -20_16: 510561164
+      SKIN 2 -20_77: -748944036
+      SKIN 2 -20_49: 1301106309
+      SKIN 2 -20_65: -1333150511
+      SKIN 2 -20_85: -667369402
+      SKIN 2 -20_10: 2016582658
+      SKIN 2 -20_52: 1691282305
+      SKIN 2 -20_60: 857224320
+      SKIN 2 -20_17: 517062075
+      SKIN 2 -20_13: -341149273
+      SKIN 2 -20_22: 1015445277
+      SKIN 2 -20_35: 1643194875
+      SKIN 2 -20_47: 503821258
+      SKIN 2 -20_72: -1207673285
+      SKIN 2 -20_79: -508510861
+      SKIN 2 -20_55: 60506392
+      SKIN 2 -20_20: 987317977
+      SKIN 2 -20_28: -1383890755
+      SKIN 2 -20_84: -2097345919
+      SKIN 2 -20_38: 1632596314
+      SKIN 2 -20_68: -601043705
+      SKIN 2 -20_5: 1944224318
+      SKIN 2 -20_44: 1800239672
+      SKIN 2 -20_62: 1084793498
+      SKIN 2 -20_82: 1689286784
+      SKIN 2 -20_89: -2112748470
+      SKIN 2 -20_94: 146107745
+      SKIN 2 -20_3: -2002341691
+      SKIN 2 -20_90: -1049963144
+      SKIN 2 -20_8: 1991484827
+      SKIN 2 -20_4: 537523234
+      SKIN 2 -20_66: -1953841243
+      SKIN 2 -20_73: 1415737085
+      SKIN 2 -20_86: 1290600518
+      SKIN 2 -20_98: 624671794
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 930e323218d1c8149a039ca420e6c42f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skin 1 full-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8616
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378f1c30ab7fd149a78b45a3b6823da
+      internalID: 1688491982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_1
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 8616
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49516c3703111614d993aa9ca3f5c05c
+      internalID: -1368010017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_2
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 8616
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c569bc6282bc048b07df550b6211af
+      internalID: -270719610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_3
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 8616
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9dea0ef65563d409fca38888072b7e
+      internalID: 1766955171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_4
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 8616
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f6682b8d4f504980a2f72f20759bd
+      internalID: -2002721290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6462
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a8d76ba99f56a4587f0051d63dc2c9
+      internalID: 830650334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_6
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 6462
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9aad5b5ca28634592d2376eefa8726
+      internalID: -624747318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_7
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 6462
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805fd6e62a2337b4bbbd16244e43d1d8
+      internalID: -1547793983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_8
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 6462
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb184cf1b663d498b5f8ed5e77c67e
+      internalID: -1978808866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_9
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 6462
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf2b59082ce9b041b3709efd853bfc6
+      internalID: 972121509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4308
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4affb77cb27fd904b83edc399a19d098
+      internalID: 2067490481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_11
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4308
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f892c156d99545b331a2e37086372
+      internalID: -72963128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2154
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b504548080899d34490e1d245b08157d
+      internalID: 366601478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_13
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2154
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c5d62a1988a48478e3732300aed654
+      internalID: -1506068359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_14
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 2154
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5144fd177abcc4e8777560ddd4ea88
+      internalID: -1178240842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_15
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 2154
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc99bc287e36086448881ed68e04559e
+      internalID: 1127143992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c00d4813c6bd740bc1aa5a4a873457
+      internalID: 810194983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_17
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051ea8ad13cc4d942b1f488eb6fd302f
+      internalID: 275826936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_18
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 0
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd98f86585282e4baa8e87c84e78d46
+      internalID: -795213875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_19
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 0
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c045adefaf604b8bd35b2a77a9fed
+      internalID: -278021440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin 1 full-01_20
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 0
+        width: 2150
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29970622c906a2047b089436bede42cd
+      internalID: -613359010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 77067a235f146c04ea5ce097bd640231
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      skin 1 full-01_4: -2002721290
+      skin 1 full-01_15: 1127143992
+      skin 1 full-01_9: 972121509
+      skin 1 full-01_2: -270719610
+      skin 1 full-01_14: -1178240842
+      skin 1 full-01_20: -613359010
+      skin 1 full-01_1: -1368010017
+      skin 1 full-01_12: 366601478
+      skin 1 full-01_19: -278021440
+      skin 1 full-01_6: -624747318
+      skin 1 full-01_10: 2067490481
+      skin 1 full-01_5: 830650334
+      skin 1 full-01_11: -72963128
+      skin 1 full-01_18: -795213875
+      skin 1 full-01_7: -1547793983
+      skin 1 full-01_17: 275826936
+      skin 1 full-01_3: 1766955171
+      skin 1 full-01_0: 1688491982
+      skin 1 full-01_16: 810194983
+      skin 1 full-01_8: -1978808866
+      skin 1 full-01_13: -1506068359
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
